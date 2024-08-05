@@ -1,4 +1,4 @@
-# Adpotbox-Analytics-windows-11
+# Adpotbox-Analytics (ILRLabs)
 Adpotbox App [Win11 version]
 
 # Overview
